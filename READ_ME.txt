@@ -2,8 +2,7 @@
 Comment est constitué le répertoire ?
 
 Le répertoire contient :
-- Le rappport du projet
-- Un dossier contenant des annexes complémentaires au dossier
+
 - Un Notebook en Python pour le nettoyage des données
 - Un fichier 'liste_variables_a_retirer' nécessaire pour le fonctionnement du code de nettoyage
 - Un Notebook en Python pour l'analyse des données
